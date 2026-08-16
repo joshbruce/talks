@@ -2,21 +2,24 @@
 
 This repository contains markdown notes, slides, and related materials for talks given by Josh Bruce.
 
-Purpose
-- Centralize talk content for personal reference and conference preparation.
-- Provide a clear record of slides, notes, and assets used when presenting.
+## Purpose
 
-Structure (suggested)
-- talks/      — folders for individual talks (notes, slide links)
-- slides/     — slide decks (PDFs, reveal.js, etc.)
-- notes/      — short markdown notes and speaker cues
-- assets/     — images, diagrams, media
+- Centralize talk content for reference and conference preparation.
+- Provide a record of slides, notes, and assets used when presenting.
+- Give event coordinators a central location to request talks by Josh Bruce at events.
 
-Usage
-These materials are for personal reference and limited sharing. All rights are reserved by the copyright holder — reuse, redistribution, or creation of derivative works is not permitted without express written permission.
+## Structure
 
-License
-See LICENSE for the full copyright and permissions statement.
+As of today, each folder represents a separate talk.
 
-Contact
+## Usage
+
+These materials are primarily for personal reference and limited sharing. The copyright holder reserves all rights, and they do not permit reuse, redistribution, or the creation of derivative works without express written permission.
+
+## License
+
+See [LICENSE](https://raw.githubusercontent.com/joshbruce/talks/refs/heads/main/LICENSE) for the full copyright and permissions statement.
+
+## Contact
+
 To request permission to reuse any material, open an issue in this repository or contact the repository owner.
